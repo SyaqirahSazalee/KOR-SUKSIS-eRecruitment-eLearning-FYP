@@ -15,12 +15,9 @@ Objective(s)
 - To do online quizzes and automate marking process.
 - To generate a simple and meaningful report based on manipulated data.
 
-Scope
-Target user: 
-Admin, students, and coaches.
+Target user: Admin, students, and coaches.
 
-Module:
-Account, application, learning, report
+Module:Account, application, learning, report
 
 
 
